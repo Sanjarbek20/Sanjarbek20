@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Rakhimberdiev Sanjarbek <img src="https://media2.giphy.com/media/F0OJGFoTZdhVwQ4lGg/giphy.gif?cid=ecf05e47gcchht7nyaax1hm41fdv8z8ttahz7ib68ty4uw6y&rid=giphy.gif&ct=g">
 
 <!--
 **Sanjarbek20/Sanjarbek20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
